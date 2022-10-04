@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/MethodInstance/bin/Debug/net6.0/MethodInstance
+/Users/ugurcanyagmur/Projects/MethodInstance/bin/Debug/net6.0/MethodInstance.deps.json
+/Users/ugurcanyagmur/Projects/MethodInstance/bin/Debug/net6.0/MethodInstance.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/MethodInstance/bin/Debug/net6.0/MethodInstance.dll
+/Users/ugurcanyagmur/Projects/MethodInstance/bin/Debug/net6.0/MethodInstance.pdb
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.dll
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/refint/MethodInstance.dll
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.pdb
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/MethodInstance.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/MethodInstance/obj/Debug/net6.0/ref/MethodInstance.dll
